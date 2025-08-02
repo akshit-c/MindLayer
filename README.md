@@ -45,7 +45,7 @@ MindLayer is an advanced personal knowledge management system that goes beyond t
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/mindlayer.git
+git clone https://github.com/akshit-c/MindLayer.git
 cd mindlayer
 ```
 
